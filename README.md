@@ -1,4 +1,4 @@
-# PinterestClone
+# Pinterest Clone
 Freecodecamp Web Application Project 5
 
 ### User Stories
