@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/abhinavmall/PinterestClone.svg?style=svg)](https://circleci.com/gh/abhinavmall/PinterestClone)
 # Pinterest Clone
 Freecodecamp Web Application Project 5
 
